@@ -1,0 +1,109 @@
+body{
+    background-color: beige;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: #430d0d;
+}
+
+section {
+    background-color: #5f7725;
+    height: 40px;
+
+}
+
+#Top-below {
+    background-color: bisque;
+    height: 10px;
+}
+
+button {
+    position: relative;
+    border-radius: 30%;
+    top: 10px;
+}
+
+#Contact-button {
+    left: 1400px;
+}
+
+#Github-button {
+    left: 1200px;
+}
+
+#Portfolio-button {
+    left: 1180px;
+}
+
+#Container {
+    background-color: #430d0d;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 640px;
+    top: 50px;
+    border: 10px solid bisque;
+    text-align: center;
+    color: bisque;
+}
+
+#Box-text {
+    font-size: xx-large;
+    position: relative;
+    padding: 50px 0px;
+}
+
+.Bottom {
+    position: relative;
+    top: 200px;
+    background-color: bisque;
+    height: 200px;
+    z-index: -1;
+    border-top: 3px solid coral;
+}
+
+#Border-section {
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    bottom: 246px;
+    left: 632.5px;
+    z-index: -1;
+}
+
+#Border-section2 {
+    background-color: #430d0d;
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    left: 607.5px;
+    bottom: 220px;
+    z-index: -2;
+}
+footer {
+    background-color: #5f7725;
+    position: relative;
+    top: 160px;
+    height: 50px;
+    color: aliceblue;
+    text-align: center;
+}
+#Prod {
+position: relative;
+top: 10px;
+}
+
+#Cont-text {
+font-size: x-large;
+text-align: center;
+color: grey;
+
+}
+
+.container-info {
+    position: relative;
+    top: 50px;
+    left: 500px;
+    width: 500px;
+}
